@@ -28,7 +28,7 @@ Home | Details
 ## Dark Mode 🌚
 Home | Details
 --- | --- | 
-![](https://i.ibb.co/LpPwMYy/imagen-2022-11-09-235142365.png) | ![image](https://i.ibb.co/Z63kmFp/imagen-2022-11-09-235225732.png)
+![](https://i.ibb.co/LpPwMYy/imagen-2022-11-09-235142365.png) | ![image](https://i.ibb.co/9VTjCLQ/image.png)
 
 <br />
 
