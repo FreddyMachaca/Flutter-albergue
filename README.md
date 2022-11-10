@@ -1,8 +1,8 @@
-#App de adopcion de mascotas 🐶
-#caso albergue perlita
+## App de adopcion de mascotas 🐶
+
 El proyecto muestra los conceptos de Interfaz (UI) a partir de una plantilla creada en Figma.
 
-Run:
+***Run:***
 ```shell
 git clone git@github.com:FreddyMachaca/Memory-game-project.git
 flutter clean
